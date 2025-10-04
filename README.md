@@ -31,3 +31,6 @@ With this dashboard, retail managers and stakeholders can:
 ---
 <img width="1328" height="791" alt="image" src="https://github.com/user-attachments/assets/12d1e8fb-3e38-45f4-9205-803d5375a0ae" />
 
+Here is the link you can visit 
+https://app.powerbi.com/view?r=eyJrIjoiY2JhN2E1ODUtYjAwYy00M2ZhLWIyMWEtYTUzODY1MDliNGNhIiwidCI6IjBmM2Y3YTcwLWIwM2ItNDI5My04NjJjLTc1NDdmYWIyMjNiYyJ9
+
